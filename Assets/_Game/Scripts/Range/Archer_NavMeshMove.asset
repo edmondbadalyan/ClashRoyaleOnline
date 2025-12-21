@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f513fcc787441364c9b1b9000c32af7a, type: 3}
-  m_Name: _NavMeshMove
+  m_Name: Archer_NavMeshMove
   m_EditorClassIdentifier: Assembly-CSharp::NavMeshMove
   _isEnemy: 1
   _moveOffset: 1

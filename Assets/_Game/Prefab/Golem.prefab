@@ -358,7 +358,7 @@ GameObject:
   - component: {fileID: 883155722882607843}
   - component: {fileID: 7806258226762666440}
   m_Layer: 0
-  m_Name: Warrior
+  m_Name: Golem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -418,9 +418,9 @@ MonoBehaviour:
   <health>k__BackingField: {fileID: 883155722882607843}
   <_isEnemy>k__BackingField: 0
   parametres: {fileID: 6279853785482185504}
-  _defaultStateSO: {fileID: 11400000, guid: fa7984446c9c87c44b836231801f0963, type: 2}
-  _chasetStateSO: {fileID: 11400000, guid: 30593beae6789044684af5125919ed0e, type: 2}
-  _attacktStateSO: {fileID: 11400000, guid: 9d116728ee531a84797c152b265ab75e, type: 2}
+  _defaultStateSO: {fileID: 11400000, guid: eab663d8980316849b2f5feb8618dc19, type: 2}
+  _chasetStateSO: {fileID: 11400000, guid: f41c0c84ac8576149988efc9961897ca, type: 2}
+  _attacktStateSO: {fileID: 11400000, guid: 6b4cefe827998344ca6d25321a2b38ff, type: 2}
   _drawGizmos: 0
 --- !u!65 &8566683855032100245
 BoxCollider:
